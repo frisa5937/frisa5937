@@ -26,17 +26,10 @@ My strengths include operational reproducibility, human-error-tolerant design, a
 
 ## 現在取り組んでいること / What I'm Working On
 
-- 🔭 家庭内システムへのObservability（可観測性）導入
-- 📐 SLI/SLO設計の実践
-- 🏗️ IaC（Terraform）の習得
-- 📝 SREポートフォリオの構築
-
----
-
-- 🔭 Introducing observability to home infrastructure
-- 📐 Practicing SLI/SLO design
-- 🏗️ Learning IaC (Terraform)
-- 📝 Building an SRE portfolio
+- 🔭 家庭内システムへのObservability導入 / Introducing observability to home infrastructure
+- 📐 SLI/SLO設計の実践 / Practicing SLI/SLO design
+- 🏗️ IaC（Terraform）習得 / Learning IaC with Terraform
+- 📝 SREポートフォリオの構築 / Building an SRE portfolio
 
 ---
 
