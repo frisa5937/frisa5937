@@ -14,7 +14,7 @@ My strengths include operational reproducibility, human-error-tolerant design, a
 ## 技術スタック / Tech Stack
 
 ### 実務経験あり / Production Experience
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![SQL Server]　
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)?style=for-the-badge&logo=amazonwebservices&logoColor=white)　https://img.shields.io/badge/Microsoft_SQL_Server-CC2927
 
 ### 習得中 / Currently Learning
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
